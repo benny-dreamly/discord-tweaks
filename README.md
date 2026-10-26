@@ -16,7 +16,7 @@ note: it imports [GuildbarRevert](https://scattagain.github.io/VencordStuff/css/
 - tones down the border radius on basically everything (4px)
 - kills the username gradients and name glow
 - hides the gift button in chat
-- blurs the friends list until you hover over it (i don't want people reading my screen)
+- the friends list side panel is removed entirely (the blur-until-hover version is also in the css, comment out the `display: none` rule for the panel if you'd rather have that)
 
 ## warning
 
