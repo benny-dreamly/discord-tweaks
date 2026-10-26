@@ -2,7 +2,7 @@
 
 my personal QuickCSS for discord. i run it through vencord but it should work anywhere QuickCSS is supported (betterdiscord etc). mostly written for the visual refresh UI, so if you're still on the old layout most of it won't do anything.
 
-this has been cobbled together from a bunch of different places over time: other people's themes, snippets from github and the vencord plugin repo, stuff i found on discord. it is very much not all my code. credit where it's mostly due: the guild bar section comes from scattagain's GuildbarRevert. if any of it looks familiar, it's because it probably is.
+this has been cobbled together from a bunch of different places over time: other people's themes, snippets from github and the vencord plugin repo, stuff i found on discord. it is very much not all my code. credit where it's mostly due: the layout and guild bar section is basically [Meekiavelique's revert_visual_refresh](https://github.com/Meekiavelique/revert_visual_refresh) with my tweaks on top (which itself imports scattagain's GuildbarRevert). the gradient remover and friends list bits are mine. if any of it looks familiar, it's because it probably is.
 
 ## using it
 
